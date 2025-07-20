@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👩‍🎨 Rukhsana Ahmad – Social Media Designer
 
-<!--
-**Rukhsana-45/rukhsana-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my creative space! I specialize in designing visually engaging content for social media platforms. With a strong command over Canva, Adobe tools, and Figma, I craft digital visuals that speak your brand's language.
 
-Here are some ideas to get you started:
+## 🔧 Tools I Use:
+- Canva (Templates, Social Posts, Branding)
+- Adobe Photoshop & Illustrator
+- Figma (UI Mockups & Prototypes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ What You'll Find Here:
+- Branding Projects  
+- Social Media Campaign Designs  
+- Creative Posters & Templates  
+- Content for Digital Wellness and Empowerment
+
+Let's connect and create something beautiful together!
+
