@@ -1,4 +1,4 @@
-# 👩‍🎨 Rukhsana Ahmad – Social Media Designer
+#  Rukhsana Ahmad – Social Media Designer
 
 Welcome to my creative space! I specialize in designing visually engaging content for social media platforms. With a strong command over Canva, Adobe tools, and Figma, I craft digital visuals that speak your brand's language.
 
@@ -7,7 +7,7 @@ Welcome to my creative space! I specialize in designing visually engaging conten
 - Adobe Photoshop & Illustrator
 - Figma (UI Mockups & Prototypes)
 
-## ✨ What You'll Find Here:
+##  What You'll Find Here:
 - Branding Projects  
 - Social Media Campaign Designs  
 - Creative Posters & Templates  
